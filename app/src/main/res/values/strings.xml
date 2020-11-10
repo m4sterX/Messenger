@@ -12,6 +12,14 @@
     <string name="Test_name">Nikita Turovets</string>
     <string name="Test_Phone">+375293119009</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Fragment Settings -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userIn">в сети</string>
+    <string name="settings_text_account">Аккаунт</string>
+    <string name="settings_tap_to_change_phone_number">Нажмите, чтобы изменить номер телефона</string>
+    <string name="settings_label_login">Имя пользователя</string>
+    <string name="settings_bio">О себе</string>
+    <string name="settings_label_bio">Напишите немного о себе</string>
+    <string name="settings_menu_title">Изменить имя</string>
+    <string name="settings_menu_exit">Выход</string>
 </resources>

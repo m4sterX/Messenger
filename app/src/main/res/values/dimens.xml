@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_margin_16_horizontal">16dp</dimen>
+    <dimen name="common_text">16sp</dimen>
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="common_margin_vertical_10">10dp</dimen>
+    <dimen name="vertical_large_margin_16">16dp</dimen>
+
+    <!-- Settings fragment-->
+
+    <dimen name="settings_user_photo">55dp</dimen>
+    <dimen name="settings_border_width">2dp</dimen>
+
+    <dimen name="settings_btn_change_photo">45dp</dimen>
+    <dimen name="settings_ripple_effect_radius">4dp</dimen>
+</resources>
